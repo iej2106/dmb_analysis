@@ -1,5 +1,8 @@
 # Fisher analysis for constraining dark matter+baryon interaction in early universe. 
 
+ <img src="fig1.png " width="300" height="300">
+
+
 The purpose for this repo is to constrain cosmolocial parameters the CMB simulated in the Boltzman code CLASS. In particular I have been constraining the 6 LCDM parameters in addition the the early-universe dark matter-baryon scattering cross section using a modified version of CLASS. With the intention to forcast sensitivities of future CMB experiment by plotting upper limits for cross sections in mass ranging between 10keV - 1TeV. See: upperlimit_crossection.ipynb
 
 <b>compute_fisher_dmb</b> computes the fisher matrix for a given experiment with required input of dark matter (DM) mass, velocity dependence, and relagtive bulk velocity which uses simulated cosmological observables from CLASS.
