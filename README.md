@@ -18,7 +18,7 @@ Python 3 (numpy, scipy, matplotlib).
 
 
 ## Formalism
- <img src="fig2.png " width="300" height="300">
+ <img src="fig2.png " width="700" height="300">
 
 [Wu et al. 2014](https://arxiv.org/abs/1402.4108)
 
