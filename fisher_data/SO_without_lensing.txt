@@ -1,0 +1,30 @@
+exp n mass(GeV) w_lensing wo_lensing
+SO 0 1e-6 
+SO 0 1e-3 
+SO 0 1 
+SO 0 1000 
+
+SO 2 1e-6
+SO 2 1e-3 
+SO 2 1 
+SO 2 1000 
+
+SO 4 1e-6 
+SO 4 1e-3 
+SO 4 1 
+SO 4 1000 
+
+SO 6 1e-6
+SO 6 1e-3 
+SO 6 1 
+SO 6 1000 
+
+SO -2 1e-6
+SO -2 1e-3 
+SO -2 1
+SO -2 1000 
+
+SO -4 1e-6
+SO -4 1e-3 
+SO -4 1 
+SO -4 1000 

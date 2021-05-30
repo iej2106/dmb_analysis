@@ -9,7 +9,7 @@ fisher matrix =
 sigma_dmb
 from cov matrix =
 1.7242802743311502e-26
-2-sigma =
-4.2762150803412525e-26
+relative_bulk_velocity =
+0.0
 2-sigma zack's method =
-2.684319733207939e-26
+2.6847777013000585e-26

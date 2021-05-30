@@ -1,0 +1,12 @@
+n-power=
+0
+dm_mass=
+1
+stepsize =
+2e-27
+fisher matrix =
+[[7.33320044601093e+50]]
+sigma_dmb
+from cov matrix =
+3.6927781879455783e-26
+2-sigma =
